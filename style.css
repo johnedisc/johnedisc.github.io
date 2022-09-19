@@ -8,10 +8,15 @@ h3 {
     text-align: left;
 }
 
+
 html {
     background-color: #8c92ac;
 }
 
 pic {
     margin: 0, auto;
+}
+
+a {
+    color: black;
 }
